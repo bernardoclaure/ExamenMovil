@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Examen3BernardoClaure</string>
+    <string name="add_book">Add</string>
+    <string name="title_activity_create_book">CreateBookActivity</string>
+    <string name="title">title</string>
+    <string name="pages">pages</string>
+    <string name="author">author</string>
+    <string name="btn_save">save</string>
+    <string name="description">description</string>
+    <string name="photoUrl">photoUrl</string>
+    <string name="isbn">isbn</string>
+    <string name="date">publish date</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+</resources>
